@@ -1,3 +1,6 @@
+   https://codepen.io/paigehicks/pen/LYbMKER?editors=1100
+   
+   
     1. What is Semantic HTML? -is the correct use of HTML
     2. What is HTML used for? -is used to structure a web page and its content
     3. What is an attribute and where do we put it? -define additional characteristics or properties of the element. The opening tag.
